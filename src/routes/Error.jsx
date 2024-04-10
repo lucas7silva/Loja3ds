@@ -1,6 +1,6 @@
 
 
-export function Error() {
+export default function Error() {
 
 
     return (

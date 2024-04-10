@@ -1,5 +1,5 @@
 
-export function Sobre() {
+export default function Sobre() {
 
 
     return (

@@ -1,6 +1,6 @@
 
 
-export function Contato() {
+export default function Contato() {
 
 
     return (
