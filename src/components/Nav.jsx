@@ -1,6 +1,9 @@
 // http://localhost:5174/
 
 import { Link } from "react-router-dom";
+import '../css/estilo.css';
+
+
 
 export default function Nav() {
 
