@@ -6,10 +6,10 @@ export default function Home() {
     <>
       <div className="container image">
         <div className="produtos">
-          <h1>produtos</h1>
-          <p> conheça novos produtos</p>
+          <h1>PRODUTOS</h1>
+          <p>CONHEÇA NOVOS PRODUTOS</p>
           <a href="" className="btn">
-            conheça mais </a>
+            CONHEÇA MAIS </a>
         </div>
       </div>
 
